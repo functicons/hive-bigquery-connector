@@ -18,7 +18,7 @@ This connector has been tested with Hive 3.1.2, Hadoop 2.10.1, and Tez 0.9.1.
 
 2. Clone this repository:
    ```sh
-   git clone https://github.com/GoogleCloudPlatform/hive-bigquery-connector
+   git clone https://github.com/GoogleCloudDataproc/hive-bigquery-connector
    cd hive-bigquery-connector
    ```
 
